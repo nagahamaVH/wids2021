@@ -2,3 +2,4 @@
 data
 submissions
 .vscode
+__pycache__
